@@ -1,0 +1,3 @@
+[submodule "accountmanager"]
+	path = accountmanager
+	url = https://github.com/asu-cis-440/accountmanager.git
